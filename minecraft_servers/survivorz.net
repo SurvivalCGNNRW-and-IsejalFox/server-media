@@ -1,0 +1,54 @@
+{
+  "server_name": "SCGN",
+  "nice_name": "Survivorz.net",
+  "direct_ip": "Survivorz.net",
+  "server_wildcards": [
+    "survivorz.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://survivorz.info",
+    "twitter": "survivorz_net",
+    "facebook": "survivorz.net",
+    "instagram": "survivorz.net_official",1w
+    "discord": "https://discord.com/invite/KxZjEJG",
+    "youtube": "https://www.youtube.com/@SurvivalCGNNRW",
+    "teamspeak": "ts.survivorz.net"
+  },
+  "gamemodes": {
+    "Citybuild": {
+      "name": "Buildwars", 
+      "color": "#FFA500",
+      "versions": "1.16.5"
+    },
+    "Farmwelt": {
+      "name": "Farmwelt",
+      "color": "#ADD8E6",
+      "versions": "1.16.5"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 678672793138888741,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Bergheim",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "8asFIRe2HSw",
+  "user_stats": "https://laby.net/@SurvivalCGN_NRW",
+  "command_delay": 3000
+}
